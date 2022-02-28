@@ -1,2 +1,9 @@
 node_modules
 package-lock.json
+main1.js
+routers1.js
+authdemo.js
+authdemo2.js
+.env
+.env_sample
+Auth0login.txt
